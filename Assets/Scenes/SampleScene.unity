@@ -760,7 +760,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.54938745, z: 0, w: 0.8355678}
-  m_LocalPosition: {x: -15.117249, y: 0.6493378, z: -8.694153}
+  m_LocalPosition: {x: -15, y: 0.64934, z: -8.6942}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1528,24 +1528,6 @@ MonoBehaviour:
   wedkarz2: {fileID: 8198212954348013530}
   wedka: {fileID: 492819321}
   kamera: {fileID: 963194225}
-  audio: {fileID: 1748469567}
-  clip:
-  - {fileID: 8300000, guid: ce86a5bfbcfc957418a62568f6e26cfd, type: 3}
-  - {fileID: 8300000, guid: a7c3ca029790cad43a5944603d2399c8, type: 3}
-  - {fileID: 8300000, guid: 7cca6e27fcde6ad4b83bf71cbe69824d, type: 3}
-  - {fileID: 8300000, guid: 997692cade38db14da77a3971110fe13, type: 3}
-  - {fileID: 8300000, guid: 11a8260eeb5668247aad56e9a3063b07, type: 3}
-  - {fileID: 8300000, guid: 0a8a6e9eab36ad54797a15505a9380e6, type: 3}
-  - {fileID: 8300000, guid: 035474cd2c44f574da4c7dff0755f190, type: 3}
-  - {fileID: 8300000, guid: 3c891553b9b16274981fdad284efc338, type: 3}
-  - {fileID: 8300000, guid: e72ba594f2c1a1948b773244b6974838, type: 3}
-  - {fileID: 8300000, guid: e68bb0d9742d52141aa578d4178d699c, type: 3}
-  - {fileID: 8300000, guid: d206a12bb80dc304ba6e82b7524ade7a, type: 3}
-  - {fileID: 8300000, guid: ebf89052b04e2864b9ea904ea75fbc9a, type: 3}
-  - {fileID: 8300000, guid: a99f34f2a73a33445a592b33fa240c6e, type: 3}
-  - {fileID: 8300000, guid: 20056393df6a38c4992374b9db5c34e3, type: 3}
-  - {fileID: 8300000, guid: b93c86e1f0d095d4e86e7717f90f3b5f, type: 3}
-  - {fileID: 8300000, guid: e842689f617d06b4bbf95f45879cb359, type: 3}
   scenes: 0000000000000000000000000000000000000000
 --- !u!4 &1893913504
 Transform:
